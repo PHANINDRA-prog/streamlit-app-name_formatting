@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF4B4B"  # Vibrant Pink for the primary elements (buttons, highlights)
+backgroundColor = "#1A1A1A"  # Dark gray for the background (softer than pure black)
+secondaryBackgroundColor = "#2C2C2C"  # Lighter dark gray for sections and cards
+textColor = "#F0F0F0"  # Light off-white text for contrast and readability
+font = "sans serif"
